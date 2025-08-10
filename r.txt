@@ -1,0 +1,3 @@
+sender = "aayushkumar9340@gmail.com"
+    receiver = "aayushkumar93407@gmail.com"
+    app_password = "xagi cuds ogin ogao"
