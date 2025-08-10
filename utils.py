@@ -93,7 +93,7 @@ def record_video(duration=5, output_dir="logs/", record_from_global_camera=False
 def send_email(name, items, video_path):
     sender = "aayushkumar9340@gmail.com"
     receiver = "aayushkumar93407@gmail.com"
-    app_password = "xagi cuds ogin ogao"
+    app_password = "use ur app password"
 
     current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
